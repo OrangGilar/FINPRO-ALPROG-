@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Health Potion",
+    "effect": "Restores 1 HP",
+    "classification": "Common",
+    "probability_weight": 40
+  },
+  {
+    "name": "Knife",
+    "effect": "Deal 2 damage instead of 1",
+    "classification": "Uncommon",
+    "probability_weight": 25
+  },
+  {
+    "name": "Goggles",
+    "effect": "See if current chamber is live",
+    "classification": "Rare",
+    "probability_weight": 20
+  },
+  {
+    "name": "Energy Drink",
+    "effect": "Take an extra action this turn",
+    "classification": "Rare",
+    "probability_weight": 15
+  }
+]
